@@ -1,6 +1,6 @@
 # Retrospective_EEG_Dyslexia
 
-** Scripts with "nmri" are part of the pipeline for EEG processing, analysis, source reconstruction described by Marquetand et al (2019 - https://doi.org/10.1089/brain.2019.0662), and the ones here were used for the retrospective Dyslexia study. Additionally, several scripts were used to bring the source reconstructed data to permutational analysis in PALM.
+** Scripts with "nmri" are modified but part of the pipeline for EEG processing, analysis, source reconstruction described by Marquetand et al (2019 - https://doi.org/10.1089/brain.2019.0662). The scripts available here were used for the retrospective Dyslexia study (Preprint: https://doi.org/10.21203/rs.3.rs-2895521/v1). Additionally, several scripts were used to bring the source reconstructed data to permutational analysis in PALM.
 
 ** Scripts with "dg" initials were additionally programmed by David Garnica for EEG data management, processing, analysis, and results visualization.
 
