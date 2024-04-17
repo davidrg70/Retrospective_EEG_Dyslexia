@@ -10,4 +10,4 @@
 
   ** Script "dg_violinplots_globalData.m" This scripts plots power or functional connectivity values for 2 groups previously compared,      using violin plots. The script implements a violin plot function (https://github.com/bastibe/Violinplot-Matlab)
 
-** Files called "SourceLevel_Results_96children_1st-4th_graders" and "SourceLevel_Results_24children_5th-8th_graders" are Results after source reconstruction (3 metrics: Power ImCoh, and wPLI debiased) but BEFORE permutational analysis.
+** Files called "SourceLevel_Results_96children_1st-4th_graders" and "SourceLevel_Results_24children_5th-8th_graders" are results after source reconstruction (3 metrics: Power ImCoh, and wPLI debiased) but obtained BEFORE permutational analysis.
